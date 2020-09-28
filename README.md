@@ -4,4 +4,6 @@
 
 print PDF without scaling
 
-note: the cutouts are reversed from actual I/O panel
+the height of the ethernet/USB port hole (the tallest one) should be 31mm 
+
+note the cutouts are reversed from actual I/O panel
