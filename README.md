@@ -1,6 +1,6 @@
 # turingpi
 
-1:1 PDF copy of I/O shield section of TuringPi acrylic case
+1:1 PDF copy of I/O shield section of TuringPi acrylic case DXF file, using a trial version of AutoCAD
 
 print PDF without scaling
 
